@@ -1,7 +1,7 @@
 # vertex-and-fragment
 This program demonstrates an implementation of both phong illumination, and notably fragment shading as well on different models. There is also directional light on one of the models.
 
-Note: my contribution were fully implementing the shaders. The architecture of the code was given to me along with the models, canvas, and means of user interaction.
+Note: my contribution were fully implementing the shaders. The architecture of the code was given to me along with the models, canvas, and means of user interaction. My contributions are more specifically in the js/shaders folder.
 
 To see the shaders working, open render.html in chrome. Then to experiment with light sources, use the various buttons on the top right to toggle modes, and then use the mouse to shift the lights around the space. 
 
